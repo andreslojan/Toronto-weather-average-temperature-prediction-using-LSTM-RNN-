@@ -1,5 +1,4 @@
 # Toronto-weather-average-temperature-prediction-with-RNN
-Regression problem addressed by using LSTM (Long Short Term Memory) over Toronto's average temperature time series
 
 Long Short Term Memory - LSTM
 For the LSTM model, the entire process was broken down into 3 basic steps which are:, Building the Recurrent Neural Network, Making predictions and visualizing the results, and Tunning the Neural Network
