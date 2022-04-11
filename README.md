@@ -1,6 +1,5 @@
 # Toronto-weather-average-temperature-prediction-with-RNN
 
-Long Short Term Memory - LSTM
 For the LSTM model, the entire process was broken down into 3 basic steps which are:, Building the Recurrent Neural Network, Making predictions and visualizing the results, and Tunning the Neural Network
 Long Short Term Memory networks rely on a gated cell to track information throughout many time steps, in other words deep sequence modeling. LSTM modules contain computational blocks that control information flow and its cells are able to track information throughout many timesteps. Information is added or removed through structures called gates, and gates optionally let information through, for example via a sigmoid neural net layer and pointwise multiplication.
 
